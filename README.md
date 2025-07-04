@@ -1,2 +1,13 @@
-# breast-cancer-analysis
-ML project to predict breast cancer using logistic models
+# PREDICTIVE ANALYSIS USING MACHINE LEARNING
+
+*COMPANY*: CODETECH IT SOLUTIONS
+
+*NAME*: SHARON SHINE
+
+*INTERN ID*: CT06DF796
+
+*DOMAIN NAME* DATA ANALYTICS
+
+*DURATION*: 6 WEEKS
+
+*MENTOR*: NEELA SANTOSH
